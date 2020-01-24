@@ -2,9 +2,9 @@
 
 ロボットシステム学2019の課題2 ROSを利用してLEDをブラウザから点灯させるプログラム
 
-##　作成したプログラムについて
+## 作成したプログラムについて
 
-###　使用方法　
+### 使用方法　
 
 sudo apt install ros-kinetic-rosbridge-suite
 
@@ -24,7 +24,7 @@ rosrun mypkg led_ros.py
 
 rosrun mypkg input_ros.py
 
-###　操作について
+### 操作について
 
 rosrun mypkg input_ros.pyを実行し、以下のコマンドにより操作する
 
@@ -40,9 +40,9 @@ e : LED3点灯
 
 f : LED3消灯
 
-##　動画URL
+## 動画URL
 
-###　作成したプログラムの実行結果の動画
+### 作成したプログラムの実行結果の動画
 
 https://youtu.be/jq4qKkAaTYM
 
